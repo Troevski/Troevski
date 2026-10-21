@@ -17,7 +17,7 @@ Fintech · Sports Betting · iGaming · Marketplaces · Kraków, CET
 Senior full-stack engineer, 6 years in fintech, sports betting, iGaming and marketplaces.
 
 - 💳 Fintech: virtual card issuing, payments, top-ups and withdrawals, crypto funding
-- ⚽ Sports betting: bet slip, accumulators, Bet Builder, 2-stage high-stake bet authorization, online and retail betting, LLM betting assistant on live sportsbook data
+- ⚽ Sports betting: bet slip, accumulators, Bet Builder, 2-stage high-stake bet authorization, online and retail betting, LLM integrations
 - 🎰 iGaming: casino lobby, game provider integrations, loyalty and VIP systems
 - 🛒 Marketplaces: subscriptions and recurring billing, escrow payments, brand-creator deal flow, recommendation engine
 - 💸 Wallets and financial ledgers: idempotency, concurrency, reconciliation
