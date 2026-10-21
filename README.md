@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=800&color=2EA043&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Engineer;AI+%2F+LLM+Integrations;Code+that+moves+real+money" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=800&color=2EA043&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Engineer;AI+%2F+LLM+Integrations;Fintech+%C2%B7+Sports+Betting+%C2%B7+iGaming" alt="Typing SVG" />
 
 **Kraków, Poland · CET**
 
@@ -12,19 +12,15 @@
 
 ---
 
-### 👋 Hey, I'm Artem
+### 👋 About
 
-I spend my days where software meets money. 6 years across **💳 fintech**, **⚽ sports betting** and **🎰 iGaming**: wallets, ledgers, payments, bet slips, casino lobbies, and the AI features built on top of all that.
+Senior full-stack engineer, 6 years in fintech, sports betting and iGaming.
 
-My favorite kind of problem is the one where a bug costs real money: a retry that charges twice, two requests racing for the same balance, a webhook that arrives before the payment exists. Making that boring and safe is the job.
-
-**What I usually work on**
-
-- 💸 Payments, wallets and ledgers that survive retries, races and flaky providers
-- 🤖 LLM assistants that work with live production data through tool calling, not just chat
-- ⚡ High-load, real-time flows: live odds, queues, event-driven services
-- 🧩 MCP servers and AI agents that speed up how teams build and test
-- 🧑‍🏫 Teaching: backend devs into full-stack, and people from zero to their first dev job
+- 💳 Fintech: virtual card issuing, payments, top-ups and withdrawals, crypto funding
+- ⚽ Sports betting: bet slip, accumulators, Bet Builder, betting assistant on live data
+- 🎰 iGaming: casino lobby, game provider integrations, loyalty and VIP systems
+- 💸 Wallets and financial ledgers: idempotency, concurrency, reconciliation
+- 🤖 Production LLM features: tool calling, structured outputs, MCP servers, AI agents for development
 
 ### 🛠 Stack
 
@@ -101,6 +97,6 @@ My favorite kind of problem is the one where a bug costs real money: a retry tha
 
 <div align="center">
 
-♟️ Off the clock: former competitive chess player, First Category · ask me why money should never be a float
+♟️ Former competitive chess player, First Category
 
 </div>
